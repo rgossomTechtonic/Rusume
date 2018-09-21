@@ -1,35 +1,53 @@
 #bodyEdit {
-  background-color: rgb(255, 245, 203)
+  white-space: normal;
+  background-color: rgb(255, 245, 203);
+  box-sizing: border-box;
+  width: 110%;
+  padding: 5px;
+  border: thick double #32a1ce;
+  margin: rgb(11, 168, 245);
+  position: static;
 }
 
 .center{
-  text-align: center
+  text-align: center;
 }
 
 #name {
-  text-align: center
+  text-align: center;
 }
 
 #address {
-  text-align: center
+  text-align: center;
 }
 
 #number {
-  text-align: center
+  text-align: center;
 }
 
 #badge {
-  text-align: center
+  text-align: center;
 }
 
 #profile {
-  text-align: center
+  text-align: center;
+  text-decoration: underline;
 }
 
 #skills{
-  text-align: center
+  text-align: center;
+  text-decoration: underline;
 }
 
 #ed {
-  text-align: center
+  text-align: center;
+  text-decoration: underline;
+}
+
+#pro {
+  text-decoration: underline;
+}
+
+#date {
+  text-align: right;
 }
